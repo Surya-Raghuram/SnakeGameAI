@@ -31,7 +31,7 @@ Training
 
 Run the notebook cells to train the agent.
 Trained models are saved as model.pth.
-(One pretrained model for 100 loops is included. ->Model)
+(One pretrained model for 300 loops is included. ->Model)
 
 <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/1ff65ed2-09ac-46f7-acca-f46761ca4948" />
 
