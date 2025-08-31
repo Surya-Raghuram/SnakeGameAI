@@ -18,19 +18,10 @@ A reinforcement learning agent that learns to play Snake using **Deep Q-Learning
 
 ---
 
-## 📂 Project Structure
-
-├── snake_ai.ipynb
-├── requirements.txt
-└── README.md
-
-
----
-
 ## ⚙️ Setup
 ```bash
-git clone https://github.com/your-username/snake-ai.git
-cd snake-ai
+git clone https://github.com/Surya-Raghuram/SnakeGameAI.git
+cd SnakeGameAI
 python -m venv venv
 source venv/bin/activate   # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
