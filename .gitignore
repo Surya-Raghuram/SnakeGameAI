@@ -1,3 +1,7 @@
+#Other unecssary model
+model/modelv1.pth
+model/modelv2.pth
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
